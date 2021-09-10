@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(58, 170, 101);
+    
+}
+
+
+.border-width h1  {
+    margin-left: 450px;
+    font-size: 50px;
+    border-style: groove;
+    border-width: 15px;
+
+}
+
+/* Bright Green */
+#super-foods{
+    color: chartreuse;
+    font-size: 30px;
+    margin-left: 515px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: aqua;size: 25px;
+    width: 1000px;
+}
+
+/* Dark Green */
+.Veggies {
+    color: rgb(2, 83, 6);
+    font-size: 20px;
+    margin-left: 535px;
+}
+
+.image {
+    margin-left: 350px;
+    border: aquamarine;size: 15px;
+
+}
